@@ -1,8 +1,8 @@
-# Delve Unittest Demo
+# Delve Unit Test Demo
 
 A very small failing unit test to demonstrate how to use dlv at the command line for debugging tests.
 
-From the command line, run: 
+From the command line, run:
 
     $ dlv test
 
